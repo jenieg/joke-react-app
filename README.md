@@ -1,6 +1,6 @@
 # React Props Practice
 
-![Jenie | Software Engineer](/src/assets/jokes.png)
+![Jenie | Software Engineer](/src/assets/images/jokes.png)
 
 
 
