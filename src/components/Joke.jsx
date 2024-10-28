@@ -12,7 +12,7 @@ const Joke = (props) => {
         <article className="joke-card">
             {props.setup && <h3>{props.setup}</h3>}
             {isShown && <p>{props.punchline}</p>}
-            <button onClick={toggle}>Show Punchline</button>
+            <button onClick={toggle}>{isShown ? "Hide" : "Show"} Punchline</button>
         </article>
     );
 };
